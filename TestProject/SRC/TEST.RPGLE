@@ -3,6 +3,7 @@
 000300190628        // zdzichu to pala
 000400190927         // potwierdzam, zdzichu to dupa  i chu
 000500190927         // potwierdzam, zdzichu to
+000400200910        Dsply 'Zdzicha juz nami nie ma...';
 000600200910        PrintMessage('Zdzichu to dupa');
 000601200910        printMessageAndMore('Zdzichu to pala');
 000700190628        *inlr = *on;

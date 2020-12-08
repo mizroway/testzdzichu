@@ -1,2 +1,3 @@
 # testzdzichu
-tomek test dupa
+test
+
